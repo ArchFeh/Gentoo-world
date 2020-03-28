@@ -1,0 +1,5 @@
+app-editors/vim	python
+net-wireless/wpa_supplicant	-qt5
+kde-plasma/plasma-meta	networkmanager pulseaudio -crypt -bluetooth
+net-print/cups-filters -pdf
+dev-libs/libdbusmenu gtk3
