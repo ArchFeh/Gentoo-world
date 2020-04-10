@@ -1,5 +1,7 @@
-app-editors/vim	python
-net-wireless/wpa_supplicant	-qt5
-kde-plasma/plasma-meta	networkmanager pulseaudio -crypt -bluetooth
-net-print/cups-filters -pdf
-dev-libs/libdbusmenu gtk3
+app-editors/vim	python #对python的支持
+app-admin/sudo	offensive #输错密码会骂人
+net-wireless/wpa_supplicant	-qt5 #不要gui
+=dev-java/oracle-jdk-bin-1.8.0.202	javafx #minecraft需要
+dev-libs/libdbusmenu	gtk3 #对gtk3的全局菜单支持
+kde-plasma/plasma-workspace	geolocation
+kde-plasma/plasma-meta	networkmanager	
